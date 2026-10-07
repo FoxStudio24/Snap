@@ -1,4 +1,4 @@
-﻿[🇬🇧 English](README.md) | [🇷🇺 Русский](README.ru.md) | [🇺🇦 Українська](README.uk.md)
+﻿[🇬🇧 English](README.md) | **<kbd>🇷🇺 Русский</kbd>** | [🇺🇦 Українська](README.uk.md)
 
 # Snap
 
