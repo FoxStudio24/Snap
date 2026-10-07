@@ -1,6 +1,9 @@
-﻿[🇬🇧 English](README.md) | **<kbd>🇷🇺 Русский</kbd>** | [🇺🇦 Українська](README.uk.md)
+﻿[🇺🇸 English](README.md) | **<kbd>🇷🇺 Русский</kbd>** | [🇺🇦 Українська](README.uk.md)
 
-# Snap
+<div align="center">
+  <img src="Asset/app.ico" width="128" alt="Snap Logo" />
+  <h1>Snap</h1>
+</div>
 
 Современный минималистичный просмотрщик фотографий для Windows, созданный на WPF с использованием аппаратного ускорения.
 
@@ -21,3 +24,5 @@ Snap поддерживает все популярные форматы изо�
 ![Скриншот 1](Asset/1.png)
 
 ![Скриншот 2](Asset/2.png)
+
+
