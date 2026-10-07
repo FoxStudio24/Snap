@@ -1,19 +1,23 @@
+﻿[🇬🇧 English](README.md) | [🇷🇺 Русский](README.ru.md) | [🇺🇦 Українська](README.uk.md)
+
 # Snap
 
-Современный минималистичный просмотрщик фотографий для Windows, созданный на WPF с использованием аппаратного ускорения.
+A modern, minimalistic photo viewer for Windows, built on WPF with hardware acceleration.
 
-## Поддерживаемые форматы
+## Supported Formats
 
-Snap поддерживает большинство популярных форматов изображений:
-- **JPEG** (`.jpg`, `.jpeg`)
-- **PNG** (`.png`)
-- **GIF** (`.gif` — включая воспроизведение анимаций)
-- **BMP** (`.bmp`)
-- **SVG** (`.svg` — векторная графика)
-- **ICO** (`.ico` — иконки)
+Snap supports all popular image formats:
+- **JPEG** (.jpg, .jpeg)
+- **PNG** (.png)
+- **GIF** (.gif — including animation playback)
+- **WEBP** (.webp — modern web format)
+- **TIFF** (.tif, .tiff — high-quality professional images)
+- **BMP** (.bmp)
+- **SVG** (.svg — vector graphics)
+- **ICO** (.ico — Windows icons)
 
-## Интерфейс
+## Interface
 
-![Скриншот 1](Asset/1.png)
+![Screenshot 1](Asset/1.png)
 
-![Скриншот 2](Asset/2.png)
+![Screenshot 2](Asset/2.png)
